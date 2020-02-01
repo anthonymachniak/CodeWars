@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PersistentBugger": {
+      "commandName": "Project",
+      "commandLineArgs": "4"
+    }
+  }
+}
